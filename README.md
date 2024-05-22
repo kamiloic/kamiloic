@@ -1,6 +1,4 @@
 # Hi there 👋, I’m Loïc Kami
-
-## About Me
 - 👀 I’m interested in software development, especially web and mobile app development.
 - 🌱 I’m currently working with React.js, Next.js, and TypeScript.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
